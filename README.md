@@ -1,29 +1,25 @@
-<h1 align="center">Olá, eu sou o yBriisMC 👋</h1>
+<h1 align="center">Hi, I'm yBriisMC 👋</h1>
 
 ---
 
-### 🙋 Sobre mim
+### 🙋 About me
 
-- 🌱 Sou **iniciante** em programação e estou aprendendo aos poucos
-- ⛏️ Curto muito **Minecraft Bedrock** :D
-- 💻 Este repositório é meu perfil no GitHub
-- 📚 Sempre buscando aprender coisas novas e evoluir
-- 😄 Fique à vontade para dar uma olhada nos meus projetos!
-
+- 🌱 I'm a **beginner** in programming and I'm learning little by little.
+- 💻 This repository is my GitHub profile.
+- 📚 Always seeking to learn new things and evolve.
+- 😄 Feel free to take a look at my projects!
 ---
 
-### 🛠️ Tecnologias que eu curto
+### 🛠️ Technologies that I enjoy
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,ts,js,py,discordjs" alt="Ícones de tecnologias" />
+  <img src="https://skillicons.dev/icons?i=php,ts,js,py" alt="Ícones de tecnologias" />
 </p>
 
 - 🐘 **PHP**
 - 🟦 **TypeScript**
 - 🟨 **JavaScript**
 - 🐍 **Python**
-- 🤖 **Discord.js**
-- ⛏️ **PocketMine-MP** (desenvolvimento de plugins)
 
 ### 🏢 [Kiyari Srudios](https://discord.kiyari.com.br)
 
@@ -40,5 +36,5 @@
 ---
 
 <p align="center">
-  <i>Obrigado por visitar meu perfil! ⛏️🌍</i>
+  <i>Thank you for visiting my profile.! ⛏️🌍</i>
 </p>
