@@ -25,16 +25,7 @@
 - 🤖 **Discord.js**
 - ⛏️ **PocketMine-MP** (desenvolvimento de plugins)
 
----
-
-### 🏢 Meu Studio
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Kiyari%20Studios-discord.kiyari.com.br-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-</p>
-
-Sou dono da **Kiyari Studios**, onde desenvolvo plugins para **PocketMine-MP**! 🎮
-🔗 Discord: [discord.kiyari.com.br](https://discord.kiyari.com.br)
+### 🏢 [Kiyari Srudios](https://discord.kiyari.com.br)
 
 ---
 
