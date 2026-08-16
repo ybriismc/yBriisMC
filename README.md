@@ -5,9 +5,6 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Iniciante-brightgreen?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Minecraft-Bedrock-1DBF1D?style=for-the-badge&logo=minecraft&logoColor=white" />
-  <img src="https://img.shields.io/badge/Aprendendo-Sempre-blue?style=for-the-badge" />
 </p>
 
 ---
